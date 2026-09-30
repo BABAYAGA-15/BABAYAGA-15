@@ -1,41 +1,52 @@
-<div align="center">
+<!-- PIXEL ART TACTICAL BANNER -->
+<p align="center">
+  <img src="YOUR_GENERATED_PIXEL_ART_URL_HERE" alt="Baba Yaga Pixel HUD" width="100%" />
+</p>
 
-# 𓁹 ʙᴀʙᴀʏᴀɢᴀ-15
+<!-- RETRO TERMINAL HUD -->
+<p align="center">
+  <img src="https://demolab.com" alt="Retro Terminal" />
+</p>
 
-*building in the shadows, crafting in the light.*
+<p align="center">
+  <b>"Focus. Commitment. Sheer will." — Retro Edition</b>
+</p>
+
+<p align="center">
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+</p>
 
 ---
 
-`[ 01001001 01001110 01010100 01000101 01001110 01010100 ]`
-
-</div>
-
-### ✦ The Palette
-A quiet collection of technologies used to translate concepts into digital interfaces. Clean code over heavy frameworks.
-
-*   **Core:** JavaScript / TypeScript / Go
-*   **Interfaces:** React / Next.js / TailwindCSS
-*   **Infrastructure:** Linux / Docker / Neovim
+### 🧰 The Arsenal (Current Loadout)
+*   📦 **Primary Weapon:** `Java` (Heavy artillery / Strong Types / Object-Oriented Systems)
+*   🗺️ **Current Quest:** Learning Core Data Structures, Algorithms, and clean code principles.
+*   🔒 **Locked Weapons (Unlocks at Level Up):** `SQL` · `Spring Boot` · `Git`
 
 ---
 
-### ✦ Current Frequency
+### 📊 Performance Metrics
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://vercel.app" alt="Stats" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://vercel.app" alt="Languages" width="100%" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://vercel.app" alt="Achievements" />
+</p>
+
+---
+
 ```text
-[•] Listening to ambient soundscapes
-[•] Refactoring monolithic messes into architectural art
-[•] Practicing the art of leaving things unsaid
+[☕] TASK: Compiling the JVM...
+[🎯] TARGET: Debugging syntax exceptions.
+[🏢] LOBBY: The Continental Hotel Arcade.
 ```
-
----
-
-<div align="center">
-
-```text
-  .   *   .    *  .
-   *   .  ⚙️  .   *
- .   *   .    *  .
-```
-
-[✦ Email](mailto:your-email@example.com) · [✦ Twitter](https://twitter.com) · [✦ Layers](https://github.com)
-
-</div>
